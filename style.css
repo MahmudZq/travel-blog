@@ -2,12 +2,12 @@
             background-color: #F6E6CB;
         }
 
-        nav>ul>li {
+        nav>ul>li { 
             display: inline-block;
             margin: 4px;
-            background-color: #B6C7AA;
+            background-color: rgb(90, 2, 2);
             color: rgb(255, 255, 255);
-            border: 1px solid #B6C7AA;
+            border: 1px solid rgb(90, 2, 2);
             padding: 2px 6px;
             border-radius: 3px;
             transition-duration: 0s;
@@ -16,9 +16,9 @@
         }
 
         nav>ul>li:hover {
-            background-color: rgb(90, 2, 2);
+            background-color:#B6C7AA;
             color: white;
-            border: 1px solid rgb(90, 2, 2);
+            border: 1px solid #B6C7AA;
         }
 
         nav li>a {
